@@ -1,1 +1,1 @@
-# Patr-n-Composite-MVC
+# Patron-Composite-MVC
